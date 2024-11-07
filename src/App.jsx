@@ -3,7 +3,7 @@ import Appcontext from './context/AppContext'
 import ShowProduct from './components/product/ShowProduct';
 import {BrowserRouter as Router,Routes,Route} from 'react-router-dom'
 import ProductDetail from './components/product/ProductDetail'
-import Navbar from './components/navbar';
+import Navbar from './components/Navbar';
 import SearchProduct from './components/product/SearchProduct';
 import Register from './components/user/Register';
 import { ToastContainer, toast } from 'react-toastify';
